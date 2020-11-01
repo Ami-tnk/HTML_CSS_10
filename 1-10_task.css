@@ -22,6 +22,7 @@ main {
   width: 300px;
   background-color: #eeeeee;
   display: inline-block;
+  overflow: hidden; /* 子要素であるimageの余白が親要素を突き抜けることを阻止する */
 }
 
 .content:nth-child(2) {
@@ -71,4 +72,17 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+  main {
+    width: 90%;
+    display: block;
+  }
+
+  .content {
+    display: block;
+    width: 100%;
+  }
+
+  .content:nth-child(2) {
+    margin: 20px 0;
+  }
 }

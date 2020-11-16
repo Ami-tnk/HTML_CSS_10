@@ -1,4 +1,4 @@
-# DMM WEBCAMP コンテンツ　【HTML/CSS を学ぼう 10 章】
+# DMM WEBCAMP コンテンツ【HTML/CSS を学ぼう 10 章】
 
 DMM WEBCAMP の学習コンテンツ HTML/CSS を学ぼうの提出課題です。
 

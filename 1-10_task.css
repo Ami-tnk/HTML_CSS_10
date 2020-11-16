@@ -78,8 +78,8 @@ footer {
   }
 
   .content {
-    display: block;
     width: 100%;
+    display: block;
   }
 
   .content:nth-child(2) {
